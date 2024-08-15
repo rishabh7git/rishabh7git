@@ -1,5 +1,15 @@
 ## Hi 👋, I am Rishabh Jaiswal
 
+### Cloud DevOps Enginner focussed on automation and cloud technologies.
+
+- 🔭 I’m currently working on implementing, and managing cloud infrastructure and CI/CD pipelines.
+- 🌱 I’m currently learning Kubernetes advance concepts, GitOps and Consul.
+- 💬 Ask me about Cloud Computing, DevOps, Kubernetes, Jenkins, Terraform, AWS, Docker, GitOps.
+- 📫 How to reach me: rishabhjaiswal099@gmail.com
+- ⚡ Fun fact: If not a cricketer then a DevOps Engineer :)
+- ✨ LinkedIn Profile: https://www.linkedin.com/in/rishabh-jaiswal-007
+- 👯 Recently started writing blogs on Medium: https://medium.com/@rishabhjaiswal099
+
 <!--
 **rishabh7git/rishabh7git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
